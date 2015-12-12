@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<task>
+	<name>Покупки</name>
+	<description>масло, хлеб</description>
+	<time>29.10.2015 21:00</time>
+	<contacts>-</contacts>
+</task>
+<task>
+	<name>Уроки</name>
+	<description>Выучить математику</description>
+	<time>30.10.2015 11:45</time>
+	<contacts>-</contacts>
+</task>
+<task>
+	<name>Уборка</name>
+	<description>помыть пол</description>
+	<time>30.12.2015 12:20</time>
+	<contacts>-</contacts>
+</task>
+</root>
